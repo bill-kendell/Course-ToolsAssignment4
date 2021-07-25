@@ -4,6 +4,7 @@ This is being used for an online course's assignment.
 # Video Games Data
 The file chosen is the video game file from Kaggle.com.
 The link to the initial data set is provided in the *Data_link* folder.
+Last access: Sunday, 2021-07-25.
 
 # Transformations
 Changes to the original data set can be found in the *Munge* folder.
