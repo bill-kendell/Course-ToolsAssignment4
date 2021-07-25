@@ -19,7 +19,7 @@ Used Hadoop (HDInsight and Hive)
 
 ## Visualization
 A number of key visualizations based on the aggregate data were produced.
-These can be found in the *Reports* folder and were created using Excel.
+These can be found in the *Reports* folder and were created using Excel from Office 365.
 
 ## Insights
 Note that I did not have the free credits to acutally execute some of this code.
